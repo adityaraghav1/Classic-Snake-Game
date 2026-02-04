@@ -1,0 +1,1 @@
+A Code Repo for a Classic Snake Game dveloped using Advanced Java Swing. Implemented real-time movement, collision detection, and dynamic score tracking with interactive GUI (Graphical User Interface).
